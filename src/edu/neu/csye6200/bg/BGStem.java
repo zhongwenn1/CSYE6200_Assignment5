@@ -20,6 +20,7 @@ public class BGStem {
 		this.size = 10;
 	}
 	
+	// Set size
 	public void setSize(int size) {
 		this.size = size;
 		this.stem = new int [size][size];
